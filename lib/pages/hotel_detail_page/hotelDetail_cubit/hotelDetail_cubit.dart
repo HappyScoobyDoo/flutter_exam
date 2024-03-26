@@ -1,8 +1,8 @@
 import 'dart:convert';
 
-import 'package:exercise_5/model/hotel.dart';
-import 'package:exercise_5/model/hotelDetail.dart';
-import 'package:exercise_5/pages/hotel_detail_page/hotelDetail_cubit/hotelDetail_state.dart';
+import 'package:Giuseppe_Barbagallo_exam/model/hotel.dart';
+import 'package:Giuseppe_Barbagallo_exam/model/hotelDetail.dart';
+import 'package:Giuseppe_Barbagallo_exam/pages/hotel_detail_page/hotelDetail_cubit/hotelDetail_state.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:http/http.dart' as http;
 

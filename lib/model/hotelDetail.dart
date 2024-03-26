@@ -1,5 +1,5 @@
 import 'package:freezed_annotation/freezed_annotation.dart';
-import 'package:exercise_5/model/room.dart';
+import 'package:Giuseppe_Barbagallo_exam/model/room.dart';
 part 'hotelDetail.freezed.dart';
 part 'hotelDetail.g.dart';
 

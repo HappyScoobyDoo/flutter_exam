@@ -1,8 +1,8 @@
-import 'package:exercise_5/pages/hotel_detail_page/hotelDetail_cubit/hotelDetail_cubit.dart';
-import 'package:exercise_5/pages/hotels_page/hotels_cubit/hotels_cubit.dart';
+import 'package:Giuseppe_Barbagallo_exam/pages/hotel_detail_page/hotelDetail_cubit/hotelDetail_cubit.dart';
+import 'package:Giuseppe_Barbagallo_exam/pages/hotels_page/hotels_cubit/hotels_cubit.dart';
 import 'package:flutter/material.dart';
-import 'package:exercise_5/pages/hotel_detail_page/hotel_detail_page.dart';
-import 'package:exercise_5/pages/hotels_page/hotels_page.dart';
+import 'package:Giuseppe_Barbagallo_exam/pages/hotel_detail_page/hotel_detail_page.dart';
+import 'package:Giuseppe_Barbagallo_exam/pages/hotels_page/hotels_page.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:go_router/go_router.dart';
 

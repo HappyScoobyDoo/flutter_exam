@@ -1,4 +1,3 @@
-import 'package:exercise_5/model/hotelDetail.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
 
 part 'hotel.freezed.dart';

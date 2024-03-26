@@ -1,4 +1,4 @@
-import 'package:exercise_5/model/hotel.dart';
+import 'package:Giuseppe_Barbagallo_exam/model/hotel.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
 
 part 'hotels_state.freezed.dart';

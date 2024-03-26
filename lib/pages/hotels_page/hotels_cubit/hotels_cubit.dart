@@ -1,7 +1,7 @@
 import 'dart:convert';
 
-import 'package:exercise_5/model/hotel.dart';
-import 'package:exercise_5/pages/hotels_page/hotels_cubit/hotels_state.dart';
+import 'package:Giuseppe_Barbagallo_exam/model/hotel.dart';
+import 'package:Giuseppe_Barbagallo_exam/pages/hotels_page/hotels_cubit/hotels_state.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:http/http.dart' as http;
 

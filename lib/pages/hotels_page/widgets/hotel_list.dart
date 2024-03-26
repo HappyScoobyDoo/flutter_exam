@@ -1,5 +1,5 @@
-import 'package:exercise_5/pages/hotels_page/hotels_cubit/hotels_cubit.dart';
-import 'package:exercise_5/pages/hotels_page/widgets/hotel_item.dart';
+import 'package:Giuseppe_Barbagallo_exam/pages/hotels_page/hotels_cubit/hotels_cubit.dart';
+import 'package:Giuseppe_Barbagallo_exam/pages/hotels_page/widgets/hotel_item.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

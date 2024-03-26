@@ -1,7 +1,7 @@
-import 'package:exercise_5/common/widgets/hotel_image.dart';
-import 'package:exercise_5/pages/hotel_detail_page/hotelDetail_cubit/hotelDetail_cubit.dart';
+import 'package:Giuseppe_Barbagallo_exam/common/widgets/hotel_image.dart';
+import 'package:Giuseppe_Barbagallo_exam/pages/hotel_detail_page/hotelDetail_cubit/hotelDetail_cubit.dart';
 import 'package:flutter/material.dart';
-import 'package:exercise_5/pages/hotel_detail_page/widgets/info_row.dart';
+import 'package:Giuseppe_Barbagallo_exam/pages/hotel_detail_page/widgets/info_row.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:intl/intl.dart';
 
